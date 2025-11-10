@@ -1,0 +1,2 @@
+to retrain download from https://www.kaggle.com/datasets/stefanogiannini/crema-d-video/data and extract it to VideoFLV
+to run the doployment go to emotion_app and read RUN.txt and use deep to test the deployement it contains images and videos

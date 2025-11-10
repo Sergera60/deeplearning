@@ -1,0 +1,7 @@
+# 🚀 How to Run the Emotion Recognition App
+
+1️⃣ Install all required dependencies:
+    python -m pip install -r requirements.txt
+
+2️⃣ Launch the Streamlit application:
+    streamlit run app.py
