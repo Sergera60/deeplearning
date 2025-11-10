@@ -5,3 +5,11 @@
 
 2️⃣ Launch the Streamlit application:
     streamlit run app.py
+
+
+Optional: Run Docker
+1️⃣ Build the Docker image
+docker build -t emotion_app .
+
+2️⃣ Run the container
+docker run -p 8501:8501 emotion-app
